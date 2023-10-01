@@ -13,6 +13,9 @@ RUN pip install -r requirements.txt
 # Expose the port that your web application will run on (adjust if needed)
 EXPOSE 8000
 
+# Define environment variable for Hugging Face API token
+ENV HUGGINGFACEHUB_API_TOKEN=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
+
 # Copy the entrypoint script into the container
 COPY entrypoint.sh /app
 
