@@ -1,4 +1,5 @@
-
+Name : Tanuj Kumar
+Entry No : 2020CSB1134
 
 # Project Documentation: Bhagavad Gita Chatbot
 
@@ -28,15 +29,16 @@ The core functionality of the chatbot resides in the `main.py` script. It loads 
 
 ## How to Run Locally
 
-Detailed instructions on how to run the project locally can be found in the project's `README.md` file. Please refer to that document for step-by-step guidance on setting up and running the application on your local machine.
+Detailed instructions on how to run the project locally can be found in the project's [README.md](./README.md) file. Please refer to that document for step-by-step guidance on setting up and running the application on your local machine.
+
 
 ## Containerization
 
-To containerize the project, a Dockerfile has been provided. You can build the Docker image and run the application within a container. Please follow the instructions in the `README.md` for containerization.
+To containerize the project, a Dockerfile has been provided. You can build the Docker image and run the application within a container. Please follow the instructions in the [README.md](./README.md) for containerization.
 
 ## Hosting on Kubernetes (Minikube)
 
-This project is designed to be hosted on a Kubernetes cluster using Minikube, which is a lightweight Kubernetes implementation for local development. Manifest files for deploying the application on Minikube are included. To obtain a hosted endpoint for the chatbot, please refer to the instructions in the `README.md`.
+This project is designed to be hosted on a Kubernetes cluster using Minikube, which is a lightweight Kubernetes implementation for local development. Manifest files for deploying the application on Minikube are included. To obtain a hosted endpoint for the chatbot, please refer to the instructions in the [README.md](./README.md).
 
 ---
 

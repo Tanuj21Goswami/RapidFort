@@ -1,8 +1,11 @@
+Name : Tanuj Kumar
+Entry No : 2020CSB1134
+
 # BhagwadGita AI Chat Bot 
 This is a chat bot which resolves your complex queries with the learnings from relgious text 'Bhagwad Gita' built using Llama2 and Sentence Transformers. 
 
 
-### Chat with your documents 🚀
+### Chat with your documents 
 - [Huggingface model](https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/blob/main/llama-2-7b-chat.ggmlv3.q8_0.bin) as Large Language model
 - [LangChain](https://python.langchain.com/docs/get_started/introduction.html) as a Framework for LLM
 - [Chainlit](https://docs.chainlit.io/overview) for deploying.
@@ -62,11 +65,9 @@ Follow these steps to build the Docker image for the Bhagavad Gita Chatbot:
 1. Clone the project repository to your local machine:
 
    ```bash
-   git clone <repository_url>
-   cd <project_directory>
+   git clone https://github.com/Tanuj21Goswami/RapidFort.git
+   cd RapidFort
    ```
-
-   Replace `<repository_url>` with the URL of your project's Git repository and `<project_directory>` with the project's directory name.
 
 2. Open a terminal and navigate to the project directory.
 
