@@ -187,5 +187,8 @@ Follow these steps to deploy your Bhagavad Gita Chatbot on Minikube Kubernetes:
 
 You should now be able to access your Bhagavad Gita Chatbot through the hosted endpoint using the Minikube IP and port specified in the URL.
 
+![Local Image](./Images/AI_BOT.png)
+
+
 
 
