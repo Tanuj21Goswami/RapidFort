@@ -64,8 +64,6 @@ def final_result(query):
     response = qa_result({'query': query})
     return response
 
-
-
 #chainlit code
 @cl.on_chat_start
 async def start():
@@ -94,3 +92,4 @@ async def main(message):
         answer += "\nNo sources found"
 
     await cl.Message(content=answer).send()
+
